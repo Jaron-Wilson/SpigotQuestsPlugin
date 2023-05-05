@@ -1,0 +1,9 @@
+name: SpigotQuestPlugin
+version: '${project.version}'
+main: me.jaron.spigotquestplugin.SpigotQuestPlugin
+api-version: 1.19
+
+commands:
+  quests:
+    usage: /<command>
+    description: Quests
